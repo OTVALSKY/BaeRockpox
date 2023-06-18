@@ -13,3 +13,5 @@ Script can be configured to use Mouse4 or Mouse 5 buttons (mouse 5 being default
 or custom keyboard key. 
 
 Source-code (.ahk) and compiled standalone (.exe) is  for everyone to download and use! 
+
+Check "Releases" to download standalone *.exe 
